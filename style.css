@@ -7,7 +7,7 @@ body {
 	font-size: 1.4em;
 }
 
-img {   max-width: 100px;
+img {   max-width: 100%;
 	margin: auto;
 	display: block;
 }
